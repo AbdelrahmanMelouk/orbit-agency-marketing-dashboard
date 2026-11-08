@@ -88,10 +88,24 @@ Campaign Performance Executive Summary (200,000 total campaigns).
 - **Personas**: Foodies, Outdoor Adventurers, Tech Enthusiasts, Health & Wellness, Fashionistas
 
 ---
+## Skills Demonstrated
+
+
+Power BI
+Power Query
+DAX
+Data Modeling
+Data Visualization
+Marketing Analytics
+Business Intelligence
+KPI Design
+Dashboard Development
+Storytelling with Data
+
+---
 
 ## Tools & Tech
 
-> Update this section to match your actual stack.
 
 - BI tool: Power BI *(the ribbon in the screenshots suggests this)*
 - Data prep: Power Query
@@ -149,6 +163,7 @@ Abdelrahman Melouk
 
 GitHub: https://github.com/AbdelrahmanMelouk
 LinkedIn: https://www.linkedin.com/in/abdelrahman-melouk
+📥 Download PBIX: https://drive.google.com/file/d/1vqQYu_REpGISvLqcIZaLXCBgYUokq3wf/view?usp=sharing 
 
 ---
 
